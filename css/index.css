@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    background-color: #00b55b;
+    font-family: 'system-ui';
+}
+
+.container{
+    background-color: white;
+    width: 40%;
+    margin-left: 400px;
+    padding: 70px;
+    padding-right: 2px;
+    padding-top: 5px;
+}
+
+.title {
+    font-size: 2.8em;
+    text-align: left ;
+}
+
+.inputClass{
+    position: relative;
+    width: 80%;
+    height: 35px;
+    margin: 10px 0 10px 0;
+}
+
+.selectClass{
+    width: 82%;
+    height: 40px;
+    margin: 10px 0;
+}
+
+.lableClass{
+    font-weight: 400;
+}
+
+::placeholder{
+    font-family: 'system-ui';
+    font-size: 1rem;
+    letter-spacing: 0.4px;
+}
+
+.FrameworkContainer{
+    margin-top: 10px;
+}
+
+.textareaClass{
+    margin-top: 10px;
+    width: 91%;
+    height: 40px;
+}
+
+input[type="submit"]{
+    margin-top: 80px;
+    width: 84%;
+    height: 30px;
+    background-color: #00b55b;
+    font-size: 1.2em;
+}
+
+
